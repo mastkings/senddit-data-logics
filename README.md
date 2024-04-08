@@ -1,15 +1,14 @@
-# Diamond Hands Challenge
+#Senddit Data Logics Program
 
-In this project I am required to write test cases for the guided project that was carried out in the module.
+In this project I am required to complete some functionalities by adding the remaining structures, validators, and logic functions for comments of the guided project that was carried out in the module.
 
-## Description
+## Functionalities
 
-The test cases created showcases the following functionalities:
+- User can post a link
+- User can upvote a link
+- User can post a comment
+- User can upvote a comment
 
-- User can create a trust-fund/escrow account
-- User can withdraw from that account after the timelock is done
-- User cannot withdraw early
-- The wrong user cannot withdraw at all
 
 ## Getting Started
 
